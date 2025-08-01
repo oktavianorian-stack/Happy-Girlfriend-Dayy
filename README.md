@@ -58,7 +58,7 @@
       Kamu bukan cuma pacar, tapi sahabat, rumah, dan bahagiaku.  
       Aku bersyukur setiap hari karena memilikimu.
     </p>
-    <div class="love">❤️</div>
+    <div class="love">💙</div>
     <p>
       Semoga aku bisa terus membuatmu tersenyum,  
       hari ini dan seterusnya. Aku cinta kamu. 😘
