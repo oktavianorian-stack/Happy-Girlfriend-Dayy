@@ -52,12 +52,13 @@
   <div class="card">
     <h1>💖 Happy Girlfriend Day 💖</h1>
     <p>
-      Terima kasih sudah hadir dalam hidupku.  
+      Terima kasih sudah selalu hadir dalam hidupku.  
       Kamu bukan cuma pacar, tapi sahabat, rumah, dan bahagiaku.  
-      Aku bersyukur setiap hari karena memilikimu.
+      Aku sangat seneng bisa kenal kamu dan terimakasih atas segalanya.
     </p>
     <div class="love">💙</div>
     <p>
+      Maaf ya sering buat kamu badmood.
       Semoga aku bisa terus membuatmu tersenyum,  
       hari ini dan seterusnya. Lof u 💙💙💙. 😘
     </p>
