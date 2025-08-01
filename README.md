@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -61,11 +61,11 @@
     <div class="love">💙</div>
     <p>
       Semoga aku bisa terus membuatmu tersenyum,  
-      hari ini dan seterusnya. Aku cinta kamu. 😘
+      hari ini dan seterusnya. Lof u 💙💙💙. 😘
     </p>
   </div>
   <footer>
-    Dibuat dengan cinta 💗 oleh seseorang yang sangat mencintaimu.
+    Dibuat dengan cinta 💗 oleh seseorang untuk bocil kuu .
   </footer>
 </body>
 </html>
